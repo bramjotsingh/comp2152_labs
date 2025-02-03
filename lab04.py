@@ -64,7 +64,7 @@ def monster_attacks(m_combat_strength, health_points):
 # Game
 # Define The number of lives for the Hero and Monster
 numLives = 10  # number of player's lives remaining
-mNumLives = 12  # number of monster's lives remaining
+mNumLives =12  # number of monster's lives remaining
 
 # Define the Dice
 diceOptions = list(range(1, 7))
